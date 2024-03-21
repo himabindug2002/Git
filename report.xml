@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="6.876" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Hotel App Login" name="Select location" time="6.715">
+<system-out><![CDATA[
+Given I am on Hotel App Login page..........................................passed
+When I enter  username as "himabindu1417"...................................passed
+And I enter password as "2002BINDU".........................................passed
+And I click Login...........................................................passed
+Then I am Logged in successfully............................................passed
+And I Select location as "Sydney"...........................................passed
+And Click on the search button..............................................passed
+Then I can see the hotel....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
