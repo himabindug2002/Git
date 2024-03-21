@@ -9,7 +9,7 @@ And I click Login...........................................................pass
 Then I am Logged in successfully............................................passed
 And I Select location as "Sydney"...........................................passed
 And Click on the search button..............................................passed
-Then I can see the hotel....................................................passed
+Then I can see the hotel....................................................
 ]]></system-out>
 </testcase>
 </testsuite>
